@@ -1,2 +1,2 @@
-# paper_review_code
-논문 리뷰 및 구현
+# CV_PaperReview
+컴퓨터 비전 분야 주요 딥러닝 모델 논문 및 코드 리뷰
